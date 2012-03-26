@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde support package
 Name:		php-horde-Horde_Support
-Version:	1.0.0
+Version:	1.0.2
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	5fd2f926971b3bf5514870920c1e1975
+# Source0-md5:	2024f60c5e1508531c391b89e28f3251
 URL:		https://github.com/horde/horde/tree/master/framework/Support/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
