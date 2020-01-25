@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Support
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde support package
 Name:		php-horde-Horde_Support
 Version:	1.0.2
