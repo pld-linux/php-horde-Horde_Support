@@ -3,7 +3,7 @@
 Summary:	%{pearname} - Horde support package
 Name:		php-horde-Horde_Support
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
